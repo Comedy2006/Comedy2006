@@ -12,3 +12,5 @@ I also play shooter Games like Rainbow Six Siege or CS:GO<br>
 I am currently working on my Lifeguard Badge for swimming. I love water and I love sports like swimming<br>
 ## return 0;
 # }
+
+My inspiration for programming is Linus Torvalds.

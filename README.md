@@ -13,4 +13,6 @@ I am currently working on my Lifeguard Badge for swimming. I love water and I lo
 ## return 0;
 # }
 
-My inspiration for programming is Linus Torvalds.
+My inspiration for programming is Linus Torvalds.<br><br>
+
+Currently learning Haskell...

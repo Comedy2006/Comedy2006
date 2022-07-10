@@ -1,7 +1,7 @@
 # int main(){
 ## std::cout << "Hello World";<br>
 Welcome to my GitHub page. <br>
-I am hobby developer. I like the languages C/C++, Python, C#.<br>
+I am hobby developer. I like the languages C/C++, Python, C# and I also like to make scripts in PowerShell.<br>
 Sometimes I also do some PHP, HTML, CSS or JS (I won't upload a single PHP project because I am still learning it rn)<br>
 ## return 0;
 # }

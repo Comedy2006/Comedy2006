@@ -1,16 +1,6 @@
-# int main(){
-## std::cout << "Hello World";<br>
+# msg: db "About me:", 10
+
+## section .text
 Welcome to my GitHub page. <br>
-I am hobby developer. I like the languages C/C++, Python, C# and I also like to make scripts in PowerShell.<br>
-Sometimes I also do some Assembly and Java (I am currently learning Java because I like the language)<br>
-## return 0;
-# }
-
-# int hobbies(){
-I play games for example Cookie Clicker Steam Version which was also my inspiration for my C# AutoClicker.<br>
-I also play shooter Games like Rainbow Six Siege or CS:GO<br>
-I am currently working on my Lifeguard Badge for swimming. I love water and I love sports like swimming<br>
-## return 0;
-# }
-
-My inspiration for programming is Linus Torvalds.<br><br>
+I am hobby developer. I mostly program with Assembler, C, C++ and High Level Assembly (it is easier to code with HLA)<br>
+Well, I will edit this About me page later<br>

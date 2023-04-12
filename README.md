@@ -22,5 +22,5 @@ I'm a full time hobby developer (funny joke ikr).<br>
 <h3>My GitHub Stats:heavy_check_mark: </h3>
 My Streak :fire:<br>
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Comedy2006&theme=dark)](https://git.io/streak-stats)
-  </p>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Comedy2006&theme=dark)](https://git.io/streak-stats)
+</p>

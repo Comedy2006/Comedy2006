@@ -10,7 +10,7 @@ I'm a full time hobby developer (funny joke ikr).<br>
 
 <h3> :hammer_and_wrench: Languages I like to use: </h3>
 <div>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icon/cplusplus/cplusplus-plain.svg)" title="C++" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 

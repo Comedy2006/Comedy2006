@@ -30,3 +30,15 @@ I'm a full time hobby developer (funny joke ikr).<br>
 - Most used Languages ✈️<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comedy2006&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+✔️ Things I like:<br>
+* Ice Cream 🍦
+* Listening to music 🎶
+* Playing videogames 🎮
+* Assembler 🥇
+
+<br><br>
+❎ Things I don't like:<br>
+* Blue Screens
+* Deadlines

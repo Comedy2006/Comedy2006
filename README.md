@@ -40,5 +40,7 @@ I'm a full time hobby developer (funny joke ikr).<br>
 
 <br><br>
 <h3>❎ Things I don't like:</h3><br>
+<ul>
 * Blue Screens <br>
-* Deadlines <br>
+  <li> Deadlines </li><br>
+</ul>

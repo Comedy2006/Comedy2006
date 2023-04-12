@@ -25,6 +25,7 @@ I'm a full time hobby developer (funny joke ikr).<br>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Comedy2006&theme=dark)](https://git.io/streak-stats)
   
+  <br>
 </p>
 - Most used Languages ✈️<br><br>
 

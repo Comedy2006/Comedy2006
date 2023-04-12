@@ -21,5 +21,5 @@ I'm a full time hobby developer (funny joke ikr).<br>
 
 <h3>My GitHub Stats:heavy_check_mark: </h3>
 My Streak :fire:<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comedy2006)](https://github.com/anuraghazra/github-readme-stats)
+[![Comedy2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comedy2006)](https://github.com/anuraghazra/github-readme-stats)
 

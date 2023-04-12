@@ -33,14 +33,17 @@ I'm a full time hobby developer (funny joke ikr).<br>
 
 <br><br>
 <h3>✔️ Things I like:</h3><br>
-* Ice Cream 🍦 <br>
-* Listening to music 🎶 <br>
-* Playing videogames 🎮 <br>
-* Assembler 🥇 <br>
-
+<ul>
+  <li>Ice Cream 🍦 </li><br>
+  <li>Listening to music 🎶 </li><br>
+  <li>Playing videogames 🎮 </li><br>
+  <li>Linux 🐧</li><br>
+  <li>Assembler 🥇 </li><br>
+</ul>
+  
 <br><br>
 <h3>❎ Things I don't like:</h3><br>
 <ul>
-* Blue Screens <br>
+  <li> Blue Screens </li><br>
   <li> Deadlines </li><br>
 </ul>

@@ -19,5 +19,6 @@ I'm a full time hobby developer (funny joke ikr).<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" **alt="RPi" width="40" height="40"/>
 </div>
 
-I am hobby developer. I mostly program with Assembler, C, C++ and Assembly<br>
-Well, I will edit this About me page later<br>
+<h3>My GitHub Stats:heavy_check_mark: </h3>
+https://github-readme-streak-stats.herokuapp.com/?user=Comedy2006
+

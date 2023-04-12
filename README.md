@@ -6,6 +6,6 @@
   <br><br>
 </div>
 
-<h3>:zzz:About me</h3>
+<h3>About me :zzz:</h3>
 I am hobby developer. I mostly program with Assembler, C, C++ and Assembly<br>
 Well, I will edit this About me page later<br>

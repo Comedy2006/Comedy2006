@@ -5,7 +5,7 @@
   <br>
 </div>
 
-<h3>About me :zzz:</h3>
+<h3>:zzz: About me </h3>
 I'm a full time hobby developer (funny joke ikr).<br>
 
 <h3> :hammer_and_wrench: Languages and tools I like to use: </h3>
@@ -19,22 +19,20 @@ I'm a full time hobby developer (funny joke ikr).<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" **alt="RPi" width="40" height="40"/>
 </div>
 
-<h3>My GitHub Stats:heavy_check_mark: </h3>
-- My Streak :fire:<br><br>
-<p align="center">
-  
+<h3>:heavy_check_mark: My GitHub Stats </h3>
+:fire: My Streak <br><br><center>
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Comedy2006&theme=dark)](https://git.io/streak-stats)
   
-  <br>
-</p>
-- Most used Languages ✈️<br><br>
+</center><br>
+✈️ Most used Languages <br><br><center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comedy2006&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
+</center><br><br>
 <h3>✔️ Things I like:</h3><br>
 <ul>
-  <li>Ice Cream 🍦 </li><br>
+  <li>Ice Cream 🍦 </li>
   <li>Listening to music 🎶 </li>
   <li>Playing videogames 🎮 </li>
   <li>Linux 🐧</li>

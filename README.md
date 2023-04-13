@@ -35,7 +35,7 @@ I'm a full time hobby developer (funny joke ikr).<br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comedy2006&show_icons=true&theme=synthwave)
 
 </center><br><br>
-<h3>✔️ Things I like:</h3><br>
+<h3>✔️ Things I like:</h3>
 <ul>
   <li>Ice Cream 🍦 </li>
   <li>Listening to music 🎶 </li>
@@ -45,7 +45,7 @@ I'm a full time hobby developer (funny joke ikr).<br><br>
 </ul>
   
 <br>
-<h3>❎ Things I don't like:</h3><br>
+<h3>❎ Things I don't like:</h3>
 <ul>
   <li> Blue Screens :large_blue_diamond: </li>
   <li> Deadlines :skull: </li>

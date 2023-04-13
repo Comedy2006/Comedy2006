@@ -6,7 +6,8 @@
 </div>
 
 <h3>:zzz: About me </h3>
-I'm a full time hobby developer (funny joke ikr).<br><br>
+I'm a full time hobby developer (funny joke ikr).<br>
+On average I listen to music 10 hours a day. Beside listening to music, I spend most of my time with coding stuff and playing videogames. Sometimes, I also touch grass 🏞️.<br><br>
 
 <h3> :hammer_and_wrench: Languages and tools I like to use: </h3>
 <div>
@@ -42,6 +43,7 @@ I'm a full time hobby developer (funny joke ikr).<br><br>
   <li>Playing videogames 🎮 </li>
   <li>Linux 🐧</li>
   <li>Assembler 🥇 </li>
+  <li>Hiking in the mountains 🇦🇹 </li>
 </ul>
   
 <br>

@@ -29,7 +29,12 @@ I'm a full time hobby developer (funny joke ikr).<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comedy2006&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</center><br><br>
+</center><br>
+:satellite: My Stats<br><br><center>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comedy2006&show_icons=true&theme=synthwave)
+
+</center>
 <h3>✔️ Things I like:</h3><br>
 <ul>
   <li>Ice Cream 🍦 </li>

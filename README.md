@@ -6,7 +6,7 @@
 </div>
 
 <h3>:zzz: About me </h3>
-I'm a full time hobby developer (funny joke ikr).<br>
+I'm a full time hobby developer (funny joke ikr).<br><br>
 
 <h3> :hammer_and_wrench: Languages and tools I like to use: </h3>
 <div>
@@ -17,7 +17,7 @@ I'm a full time hobby developer (funny joke ikr).<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" title="FireFox" **alt="FireFox" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" **alt="RPi" width="40" height="40"/>
-</div>
+</div><br>
 
 <h3>:heavy_check_mark: My GitHub Stats </h3>
 :fire: My Streak <br><br><center>
@@ -34,7 +34,7 @@ I'm a full time hobby developer (funny joke ikr).<br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comedy2006&show_icons=true&theme=synthwave)
 
-</center>
+</center><br><br>
 <h3>✔️ Things I like:</h3><br>
 <ul>
   <li>Ice Cream 🍦 </li>
@@ -44,7 +44,7 @@ I'm a full time hobby developer (funny joke ikr).<br>
   <li>Assembler 🥇 </li>
 </ul>
   
-<br><br>
+<br>
 <h3>❎ Things I don't like:</h3><br>
 <ul>
   <li> Blue Screens :large_blue_diamond: </li>

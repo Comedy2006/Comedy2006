@@ -43,7 +43,7 @@ On average I listen to music 10 hours a day. Beside listening to music, I spend 
   <li>Playing videogames 🎮 </li>
   <li>Linux 🐧</li>
   <li>Assembler 🥇 </li>
-  <li>Hiking in the mountains 🇦🇹 </li>
+  <li>Hiking in the mountains ⛰️ </li>
 </ul>
   
 <br>

@@ -6,7 +6,7 @@
 </div>
 
 <h3>:zzz: About me </h3>
-I'm a full time hobby developer (funny joke ikr).<br>
+I'm a hobby developer from Austria. I normally code in C/C++ and Assembly (sometimes I use other languages just for fun).<br>
 On average I listen to music 10 hours a day. Beside listening to music, I spend most of my time with coding stuff and playing videogames. Sometimes, I also touch grass 🏞️.<br><br>
 
 <h3> :hammer_and_wrench: Languages and tools I like to use: </h3>
@@ -47,6 +47,7 @@ On average I listen to music 10 hours a day. Beside listening to music, I spend 
   <li>Linux 🐧</li>
   <li>Assembler 🥇 </li>
   <li>Hiking in the mountains ⛰️ </li>
+  <li>Low-Level-Programming :arrow_heading_down: </li>
 </ul>
   
 <br>

@@ -42,6 +42,7 @@ On average I listen to music 10 hours a day. Beside listening to music, I spend 
 <h3>✔️ Things I like:</h3>
 <ul>
   <li>Ice Cream 🍦 </li>
+  <li>Maths :notebook_with_decorative_cover: </li>
   <li>Listening to music 🎶 </li>
   <li>Playing videogames 🎮 </li>
   <li>Linux 🐧</li>
@@ -55,4 +56,5 @@ On average I listen to music 10 hours a day. Beside listening to music, I spend 
 <ul>
   <li> Blue Screens :large_blue_diamond: </li>
   <li> Deadlines :skull: </li>
+  <li>Segfaults :rage: </li>
 </ul>

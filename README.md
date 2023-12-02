@@ -39,7 +39,7 @@ On average I listen to music 10 hours a day. Beside listening to music, I spend 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comedy2006&show_icons=true&theme=synthwave)
 
 </center><br><br>
-<h3>✔️ Things I like:</h3>
+<h3>✔️ Things I do like:</h3>
 <ul>
   <li>Ice Cream 🍦 (not Chocolate Chocolate Chip) </li>
   <li>Maths :notebook_with_decorative_cover: </li>

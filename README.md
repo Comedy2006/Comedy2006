@@ -42,7 +42,7 @@ On average I listen to music 10 hours a day. Besides listening to music, I spend
 <h3>✔️ Things I do like:</h3>
 <ul>
   <li>Ice Cream 🍦 (not Chocolate Chocolate Chip) </li>
-  <li>Maths :notebook_with_decorative_cover: </li>
+  <li>Maths and Physics :notebook_with_decorative_cover: </li>
   <li>Listening to music 🎶 </li>
   <li>Playing videogames 🎮 </li>
   <li>Linux 🐧</li>

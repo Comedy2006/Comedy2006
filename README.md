@@ -6,7 +6,7 @@
 </div>
 
 <h3>:zzz: About me </h3>
-I'm a hobby developer from Austria. I normally code in C/C++ and Assembly (sometimes I use other languages just for fun). Just saying, I am not a professional developer and have taught myself the art of coding. I tend to write spaghetti code, but never change a running system, right.... right? :spaghetti: <br>
+I'm a hobby developer from Austria. I normally code in C/C++ (currently learning Assembly; sometimes I use other languages just for fun). Just saying, I am not a professional developer and have taught myself the art of coding. I tend to write spaghetti code, but never change a running system, right.... right? :spaghetti: <br>
 On average I listen to music 10 hours a day. Besides listening to music, I spend most of my time with coding stuff and playing videogames. Sometimes, I also touch grass 🏞️.<br><br>
 
 <h3> :hammer_and_wrench: Languages and tools I like to use </h3>

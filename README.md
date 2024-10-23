@@ -19,6 +19,8 @@ On average I listen to music 10 hours a day. Besides listening to music, I spend
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" title="FireFox" **alt="FireFox" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" **alt="RPi" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div><br>
 
 <h3>:heavy_check_mark: My GitHub Stats </h3>

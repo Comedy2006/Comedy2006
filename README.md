@@ -1,13 +1,12 @@
 <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h2>Good evening everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <h2>Servus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <br>
 </div>
 
 <h3>:zzz: About me </h3>
-I'm a hobby developer from Austria. I normally code in C/C++ (currently learning Assembly; sometimes I use other languages just for fun). Just saying, I am not a professional developer and have taught myself the art of coding. I tend to write spaghetti code, but never change a running system, right.... right? :spaghetti: <br>
-On average I listen to music 10 hours a day. Besides listening to music, I spend most of my time with coding stuff and playing videogames. Sometimes, I also touch grass 🏞️.<br><br>
+Break it 'til you make it. Sounds like a weird motto, but it perfectly describes me. I like to break things just to figure out how they work or how to make them more secure. I'm currently working on my reverse engineering skills. The projects I upload to GitHub rarely focus on security - I just program whatever comes to mind.<br><br>
 
 <h3> :hammer_and_wrench: Languages and tools I like to use </h3>
 <div>
@@ -54,7 +53,7 @@ On average I listen to music 10 hours a day. Besides listening to music, I spend
 <br>
 <h3>❎ Things I don't like:</h3>
 <ul>
-  <li> Blue Screens :large_blue_diamond: </li>
-  <li> Deadlines :skull: </li>
+  <li>Blue Screens :large_blue_diamond: </li>
+  <li>Deadlines :skull: </li>
   <li>Segfaults :rage: </li>
 </ul>

@@ -23,11 +23,6 @@ Break it 'til you make it. Sounds like a weird motto, but it perfectly describes
 </div><br>
 
 <h3>:heavy_check_mark: My GitHub Stats </h3>
-:fire: My Streak <br><br><center>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Comedy2006&theme=dark)](https://git.io/streak-stats)
-  
-</center><br>
 ✈️ Most used Languages <br><br><center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comedy2006&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
